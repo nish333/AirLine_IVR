@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="external" filename="AllInOneFile" version="1.0">
+    <phrase version="1.0">
+        <displayname>WelcomePrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>WelcomePrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>DepartureTimePrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>DepartureTimePrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ExistingBookingStatusPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ExistingBookingStatusPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ExistingUserMenuPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ExistingUserMenuPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>LastTripPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>LastTripPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MainMenuPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MainMenuPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>NewUserPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NewUserPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>NoInputPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoInputPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>NoMatchPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>NoMatchPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ThanksPrompt</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ThanksPrompt.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TransferPrompot</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TransferPrompot.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>TestPrompot</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>TestPrompot.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>checkstatus</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>checkstatus.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>bookstatus</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>bookstatus.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Maximumlimits</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Maximumlimits.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>tripdetails</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>tripdetails.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>pnrnumber</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>pnrnumber.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>departuredate</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>departuredate.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>bookingdate</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>bookingdate.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>confirmed</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>confirmed.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>waiting</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>waiting.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>year</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>year.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>month</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>month.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>date</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>date.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>hours</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>hours.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>minutes</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>minutes.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>seconds</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>seconds.wav</audiofile>
+    </phrase>
+</phraseset>
